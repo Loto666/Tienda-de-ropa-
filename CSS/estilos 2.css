@@ -1,0 +1,11 @@
+a {
+  border-style: dotted;
+  border-color: #ff6600;
+  padding: 10px;
+  color: #3366ff;
+  background-color: #ff9900;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}

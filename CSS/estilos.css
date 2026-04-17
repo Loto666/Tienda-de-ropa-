@@ -1,0 +1,21 @@
+h1 {
+  border-style: groove;
+  border-color: #eda240;
+  background-color: #229bff;
+  text-decoration: underline blink;
+  font-family: Georgia;
+  color: #ebb44a;
+}
+body {
+  border-style: dotted;
+  border-color: #33ccff;
+  font-size: larger;
+  background-color: #e2e2e2;
+  color: #151515;
+  background-image: url(../img/22222.JPG);
+  text-decoration: underline;
+  font-family: Segoe UI Light;
+}
+.INDICE {
+  background-color: #ffcc00;
+}
